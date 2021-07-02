@@ -1,0 +1,357 @@
+{
+  "Gulp": [
+    {
+      "name": "magic"
+    },
+    {
+      "name": "blendid",
+      "issues": [
+        {
+          "name": "Configuration for swiper to work",
+          "link": "https://github.com//vigetlabs/blendid/issues/584"
+        },
+        {
+          "name": "wrong generation of path for js-files in rev-manifest on windows",
+          "link": "https://github.com//vigetlabs/blendid/issues/583"
+        },
+        {
+          "name": "html watch task does not notice changes to files added after Blendid was started",
+          "link": "https://github.com//vigetlabs/blendid/issues/580"
+        },
+        {
+          "name": "empty prebuild and postbuild configs must be null/false, not []. change this behavior?",
+          "link": "https://github.com//vigetlabs/blendid/issues/579"
+        },
+        {
+          "name": "upgrade to gulp 4",
+          "link": "https://github.com//vigetlabs/blendid/issues/578"
+        }
+      ]
+    },
+    {
+      "name": "fetool",
+      "issues": [
+        {
+          "name": "bug",
+          "link": "https://github.com//nieweidong/fetool/issues/22"
+        },
+        {
+          "name": "个人推荐：工具网站",
+          "link": "https://github.com//nieweidong/fetool/issues/18"
+        },
+        {
+          "name": "小结",
+          "link": "https://github.com//nieweidong/fetool/issues/5"
+        },
+        {
+          "name": "TODO",
+          "link": "https://github.com//nieweidong/fetool/issues/4"
+        }
+      ]
+    },
+    {
+      "name": "assemble",
+      "issues": [
+        {
+          "name": "Markdown Helper",
+          "link": "https://github.com//assemble/assemble/issues/960"
+        },
+        {
+          "name": "How to add pagination in grunt-assemble",
+          "link": "https://github.com//assemble/assemble/issues/957"
+        },
+        {
+          "name": "Nested if statements causing custom parameters in partials to become repeated/global scope",
+          "link": "https://github.com//assemble/assemble/issues/956"
+        },
+        {
+          "name": "Passing pages.data to yaml front matter.",
+          "link": "https://github.com//assemble/assemble/issues/955"
+        },
+        {
+          "name": "Contribution guide link is broken in the project's issue template",
+          "link": "https://github.com//assemble/assemble/issues/950"
+        }
+      ]
+    },
+    {
+      "name": "generator-webapp",
+      "issues": [
+        {
+          "name": "Duplicite browserlist",
+          "link": "https://github.com//yeoman/generator-webapp/issues/781"
+        },
+        {
+          "name": "[Road Map] New Release",
+          "link": "https://github.com//yeoman/generator-webapp/issues/759"
+        },
+        {
+          "name": "Even though Yarn is detected, it creates a npm lockfile",
+          "link": "https://github.com//yeoman/generator-webapp/issues/747"
+        },
+        {
+          "name": "Typescript?",
+          "link": "https://github.com//yeoman/generator-webapp/issues/745"
+        },
+        {
+          "name": "Let's update recipes!",
+          "link": "https://github.com//yeoman/generator-webapp/issues/742"
+        }
+      ]
+    }
+  ],
+  "Express": [
+    {
+      "name": "nodebestpractices",
+      "issues": [
+        {
+          "name": "I add some Chinese translation ",
+          "link": "https://github.com//goldbergyoni/nodebestpractices/issues/1022"
+        },
+        {
+          "name": "Dutch translation",
+          "link": "https://github.com//goldbergyoni/nodebestpractices/issues/1020"
+        },
+        {
+          "name": "Prefer cross-platform API when possible",
+          "link": "https://github.com//goldbergyoni/nodebestpractices/issues/1014"
+        },
+        {
+          "name": "Add Nick as collaborator",
+          "link": "https://github.com//goldbergyoni/nodebestpractices/issues/996"
+        },
+        {
+          "name": "Create honor wall 🥇",
+          "link": "https://github.com//goldbergyoni/nodebestpractices/issues/995"
+        }
+      ]
+    },
+    {
+      "name": "express",
+      "issues": [
+        {
+          "name": "Deprecated Property in hello-world example",
+          "link": "https://github.com//expressjs/express/issues/4623"
+        },
+        {
+          "name": "API ROUTE GROUP PREFIX || LIKE LARAVEL",
+          "link": "https://github.com//expressjs/express/issues/4614"
+        },
+        {
+          "name": "POST method ajax with CORS 405 Method Not allowed",
+          "link": "https://github.com//expressjs/express/issues/4613"
+        },
+        {
+          "name": "POST request causing PreFlight and then getting cancelled after stalling",
+          "link": "https://github.com//expressjs/express/issues/4611"
+        },
+        {
+          "name": "res.status(xxx) sometimes returning undefined",
+          "link": "https://github.com//expressjs/express/issues/4597"
+        }
+      ]
+    },
+    {
+      "name": "N-blog",
+      "issues": [
+        {
+          "name": "211",
+          "link": "https://github.com//nswbmw/N-blog/issues/487"
+        },
+        {
+          "name": "fs.unlink()需要加入回调参数",
+          "link": "https://github.com//nswbmw/N-blog/issues/486"
+        },
+        {
+          "name": "好像所有图片失效了",
+          "link": "https://github.com//nswbmw/N-blog/issues/485"
+        },
+        {
+          "name": "Possible Stored XSS Vulnerability in N-blog",
+          "link": "https://github.com//nswbmw/N-blog/issues/484"
+        },
+        {
+          "name": "将项目放在阿里云centos上访问不到。",
+          "link": "https://github.com//nswbmw/N-blog/issues/483"
+        }
+      ]
+    },
+    {
+      "name": "fiber",
+      "issues": [
+        {
+          "name": "🚀 Could add a requestId tag in logger middleware? like TagRequestId?",
+          "link": "https://github.com//gofiber/fiber/issues/1422"
+        },
+        {
+          "name": "🤗 How to manage/log template errors in fiber",
+          "link": "https://github.com//gofiber/fiber/issues/1420"
+        },
+        {
+          "name": "🐛 Memory Session Storage error with string of random length",
+          "link": "https://github.com//gofiber/fiber/issues/1419"
+        },
+        {
+          "name": "🚀 add Fiber to OpenTelemetry repo",
+          "link": "https://github.com//gofiber/fiber/issues/1416"
+        },
+        {
+          "name": "🐛 QueryParser returns no error when required field is empty",
+          "link": "https://github.com//gofiber/fiber/issues/1414"
+        }
+      ]
+    },
+    {
+      "name": "javascript-testing-best-practices",
+      "issues": [
+        {
+          "name": "New BP: Copy the necessary details between tests",
+          "link": "https://github.com//goldbergyoni/javascript-testing-best-practices/issues/171"
+        },
+        {
+          "name": "New BP: Avoid coupling between tests, each fail and succeed regardless of the other",
+          "link": "https://github.com//goldbergyoni/javascript-testing-best-practices/issues/170"
+        },
+        {
+          "name": "Suggestion of some little markup rules for deep conformity in the context of languages",
+          "link": "https://github.com//goldbergyoni/javascript-testing-best-practices/issues/167"
+        },
+        {
+          "name": "Call for more translations",
+          "link": "https://github.com//goldbergyoni/javascript-testing-best-practices/issues/161"
+        },
+        {
+          "name": "Working on v2 of this guide, ideas for improvements?",
+          "link": "https://github.com//goldbergyoni/javascript-testing-best-practices/issues/160"
+        }
+      ]
+    }
+  ],
+  "jQuery": [
+    {
+      "name": "jquery",
+      "issues": [
+        {
+          "name": "Selector: 100 years or more causes wrong date to be selected",
+          "link": "https://github.com//jquery/jquery/issues/4897"
+        },
+        {
+          "name": "Selector: rewrite selector engine to rely fully on qsa and matches with no fallbacks",
+          "link": "https://github.com//jquery/jquery/issues/4886"
+        },
+        {
+          "name": "html element offset does accounting margins contrary to docs",
+          "link": "https://github.com//jquery/jquery/issues/4863"
+        },
+        {
+          "name": "jQuery v3.6.0 breaks Bootstrap's test suite in IE",
+          "link": "https://github.com//jquery/jquery/issues/4859"
+        },
+        {
+          "name": "In jQuery 3.4.0+ in IE a focus-blur-focus sequence doesn't leave the element focused",
+          "link": "https://github.com//jquery/jquery/issues/4856"
+        }
+      ]
+    },
+    {
+      "name": "fullPage.js",
+      "issues": [
+        {
+          "name": "Delayed response of scroll",
+          "link": "https://github.com//alvarotrigo/fullPage.js/issues/4234"
+        },
+        {
+          "name": "ScrollOverFlowReset not showing start of long section when coming from section below",
+          "link": "https://github.com//alvarotrigo/fullPage.js/issues/4233"
+        },
+        {
+          "name": "Samsung mobile browser not scrolling correctly",
+          "link": "https://github.com//alvarotrigo/fullPage.js/issues/4229"
+        },
+        {
+          "name": "Add anchor to only specific sections",
+          "link": "https://github.com//alvarotrigo/fullPage.js/issues/4228"
+        },
+        {
+          "name": "Wrong indexing and various navigation issues",
+          "link": "https://github.com//alvarotrigo/fullPage.js/issues/4227"
+        }
+      ]
+    },
+    {
+      "name": "taro",
+      "issues": [
+        {
+          "name": "h5项目，在app嵌套的webview页面白屏，抓包报“super”错误，机型vivoY5s",
+          "link": "https://github.com//NervJS/taro/issues/9653"
+        },
+        {
+          "name": "taro3支持”基于 Taro 开发第三方多端 UI 库“吗",
+          "link": "https://github.com//NervJS/taro/issues/9652"
+        },
+        {
+          "name": "taro-react会过滤props中的函数",
+          "link": "https://github.com//NervJS/taro/issues/9650"
+        },
+        {
+          "name": "Taro Input组件的placeholderClass对H5页面不生效",
+          "link": "https://github.com//NervJS/taro/issues/9647"
+        },
+        {
+          "name": "taro typescript语法错误但编译成功不报错",
+          "link": "https://github.com//NervJS/taro/issues/9646"
+        }
+      ]
+    },
+    {
+      "name": "select2",
+      "issues": [
+        {
+          "name": "Greek punctuation tone as separate character when using Tagging and Multiple ",
+          "link": "https://github.com//select2/select2/issues/6063"
+        },
+        {
+          "name": "tags and search conflict",
+          "link": "https://github.com//select2/select2/issues/6060"
+        },
+        {
+          "name": "Cannot change a specific string after localization",
+          "link": "https://github.com//select2/select2/issues/6059"
+        },
+        {
+          "name": "When Dropdown is open in Bootstrap model can not able to scroll ",
+          "link": "https://github.com//select2/select2/issues/6056"
+        },
+        {
+          "name": "Multi select dropwon not working mac ctrl + click",
+          "link": "https://github.com//select2/select2/issues/6054"
+        }
+      ]
+    },
+    {
+      "name": "cheerio",
+      "issues": [
+        {
+          "name": "The number of child elements of the element is not what I expected",
+          "link": "https://github.com//cheeriojs/cheerio/issues/1943"
+        },
+        {
+          "name": "RangeError: Maximum call stack size exceeded",
+          "link": "https://github.com//cheeriojs/cheerio/issues/1941"
+        },
+        {
+          "name": "DoS vulnerability via obsolete \"css-what\" version",
+          "link": "https://github.com//cheeriojs/cheerio/issues/1924"
+        },
+        {
+          "name": "New type definition does not reflect API for children",
+          "link": "https://github.com//cheeriojs/cheerio/issues/1854"
+        },
+        {
+          "name": "Accept Uint8Array also instead of Buffer?",
+          "link": "https://github.com//cheeriojs/cheerio/issues/1844"
+        }
+      ]
+    }
+  ]
+}
